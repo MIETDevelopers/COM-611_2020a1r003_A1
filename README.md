@@ -1,1 +1,2 @@
-# COM-611_2020a1r003_A1
+My Github repository for COM-611 AI WITH COMPUTER VISION.
+Includes all the projects done in the Lab.
